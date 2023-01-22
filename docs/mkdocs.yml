@@ -1,23 +1,34 @@
+# yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
+
 ### Site metadata ###
+#Project Info
+site_name: RMTechTransfer Blog
+site_description: Random blog to track the randomness and curiosity, across my personal and professional endevours
+site_author: Robert Mueller Jr
 
-site_name: MkDocs Quickstart
-site_description: Starter template for a MkDocs docs site on GH Pages - including CI
-site_url: https://michaelcurrin.github.io/mkdocs-quickstart/
+# Repository
+repo_url: https://github.com/okbobm/rmtechtransfer_blog
+edit_uri: ""
 
-repo_url: https://github.com/MichaelCurrin/mkdocs-quickstart
-edit_uri: edit/master/docs/docs
+# Configuration
+theme: 
+    name: material
+    
 
-### Build settings ###
-
-theme: readthedocs
+plugins:
+  - search:
+      separator: "[\\s\\-,:!=\\[\\]()\"/]+|\\.(?!\\d)|&[lg]t;|(?!\\b)(?=[A-Z][a-z])"
+  - tags:
+      tags_file: tags.md
 
 nav:
-  - Home: index.md
-  - About MkDocs: about-mkdocs.md
-  - Tutorial:
-      - TL;DR: tutorial/tldr.md
-      - Installation: tutorial/installation.md
-      - Set up project: tutorial/setup-project.md
-      - Advanced: tutorial/advanced.md
-      - Usage: tutorial/usage.md
-      - Deploy: tutorial/deploy.md
+  - AboutMe:
+    - aboutme/aboutme.md
+  - Blog:
+    - blog/posts/20230105_gettingstarted.md 
+    - blog/posts/20221217_newblog.md 
+   
+  - Resume:
+    - resume/resume.md
+  - Tags:
+      tags.md
