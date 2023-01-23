@@ -14,7 +14,7 @@ June 2022 - Present
 
 Product Management: 
 
-* Led “Voice of Customer” sessions with Engineering, Customer Success, and Sales Engineering to flesh out pain points, and transitioning business requirements to technical requirements. 
+* Led “Voice of Customer” sessions with Engineering, Customer Success, and Sales Engineering to flesh out pain points, and transition business requirements to technical requirements. 
 
 * Aligned high level strategic objectives (Quarterly Business Reviews) with user pain points to develop platform team roadmap, and prioritization of issues through epics and user stories.
 
@@ -100,11 +100,6 @@ TECHNICAL EXPERIENCE
 
 * Set up with PFsense router and Security Onion for IDS/IPS with ELK dashboard, DMZ with web server, network/virtual Switches, Cloudflare DNS, Cloudflare Zero Trust, and Nessus for vulnerability scans. Kali/Burp for pentesting.  Includes: vlans, honeypots and active defense,  ldap (JumpCloud), virtualization/containerization (Proxmox).
 
+ 3d Printing
 
-
-ot
-----------------------------------------
-
-* Random tidbit
-
-
+* This has become a really fun project the bring out the "maker" side of me, plus I get to integrate IOT sensors and devices to improve quality, monitoring, etc.

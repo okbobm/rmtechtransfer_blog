@@ -3,7 +3,7 @@
 ## About me:
 - **Professionally:**
     
-    I'm a Security Product Manager, interested in all things infosec related; blue teaming and detecting threats in the enterprise, pentesting, GRC, and security related IOT (implants, rubber duckies, etc). My background has included GIS application development, analysis, and location intelligence, and devsecops. 
+    I'm a Security Product Manager, interested in all things infosec related; vulnerability management, Governance Risk and Compliance (GRC), and security related IOT (implants, rubber duckies, etc). My background has included GIS application development, analysis, and location intelligence, and devsecops. 
 
     
 
